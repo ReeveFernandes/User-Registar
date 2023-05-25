@@ -3,6 +3,8 @@
 
 This project is a web application built with React that allows users to register with their names and age. It provides a simple user registration form where users can input their username, email address, and password to create a new account.
 
+<img width="744" alt="Screenshot 2023-05-25 at 5 38 03 PM" src="https://github.com/ReeveFernandes/User-Registar/assets/92554845/9cc6e446-d69c-46a7-9788-6f62e530705e">
+
 ## Demo
 
 You can access the live demo of the application at [https://user-register-q6zd.onrender.com/](https://user-register-q6zd.onrender.com/).
